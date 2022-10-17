@@ -2,7 +2,10 @@
 
 /* Borda Azul do topo */
 #borda {
-  background-color: #042CA7;
+  background-color: #9841E2;
+  background-image: url(/Tela-Login-Moda-Center/img/logo\ moda\ center.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: center;
   height: 55px;
   margin-bottom: 50px;
 }
@@ -14,7 +17,7 @@
 
 .center {
   /* Primeiro passo: definir um degradê como fundo */
-  background-image: linear-gradient(to right, #7540D2, #2BE1AC);
+  background-image: linear-gradient(to right, #9841E2, #287AA8);
 
   /* Segundo passo: apagar do fundo tudo que não estiver imediatamente atrás de texto */
   background-clip: text;
@@ -53,7 +56,7 @@
   font-family: Arial, Helvetica, sans-serif;
   font-size: 48px;
   font-weight: 700;
-  color: #36DB9F;
+  color: #9841E2;
   margin: 0;
   padding: 0;
 }
